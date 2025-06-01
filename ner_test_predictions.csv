@@ -1,0 +1,16 @@
+sentence_id,sentence,text_clean,predicted_entities
+0,"If you're visiting Paris , make sure to see the Louvre , as they exhibit the Mona Lisa !","If you're visiting Paris , make sure to see the Louvre , as they exhibit the Mona Lisa !","[('Paris', 'LOC'), ('Lou', 'ORG'), ('##vre', 'LOC'), ('Mona Lisa', 'MISC')]"
+1,"Amazon , Google and Meta control a huge share of the technology market globally .","Amazon , Google and Meta control a huge share of the technology market globally .","[('Amazon', 'ORG'), ('Google', 'ORG'), ('Meta', 'ORG')]"
+2,Did you hear Pharoah Sanders recorded an album with Floating Points ?,Did you hear Pharoah Sanders recorded an album with Floating Points ?,"[('Ph', 'PER'), ('##aro', 'PER'), ('##ah Sanders', 'PER'), ('Floating Points', 'ORG')]"
+3,Madvillainy is still my favourite MF DOOM record .,Madvillainy is still my favourite MF DOOM record .,[]
+4,"My friend Kevin just finished watching Succession , and won't stop talking about Kieran Culkin 's performance .","My friend Kevin just finished watching Succession , and won't stop talking about Kieran Culkin 's performance .","[('Kevin', 'PER'), ('Succession', 'MISC'), ('Ki', 'PER'), ('##eran Culkin', 'PER')]"
+5,Venus Williams has always been overshadowed by her sister .,Venus Williams has always been overshadowed by her sister .,"[('Venus Williams', 'PER')]"
+6,"Since Queen Elizabeth died , King Charles has been the head of the British Royal Family .","Since Queen Elizabeth died , King Charles has been the head of the British Royal Family .","[('Elizabeth', 'PER'), ('Charles', 'PER'), ('British', 'MISC'), ('Family', 'ORG')]"
+7,I stayed up all night playing Dark Souls again .,I stayed up all night playing Dark Souls again .,"[('Dark Souls', 'MISC')]"
+8,Speaking of great movies - do you remember Once Upon a Time in America ?,Speaking of great movies - do you remember Once Upon a Time in America ?,"[('Once Upon a Time in', 'MISC'), ('America', 'LOC')]"
+9,Michael Jordan is considered one of the best players in the history of the NBA .,Michael Jordan is considered one of the best players in the history of the NBA .,"[('Michael Jordan', 'PER'), ('NBA', 'ORG')]"
+10,They used to call it New Amsterdam before they called it New York .,They used to call it New Amsterdam before they called it New York .,"[('New Amsterdam', 'LOC'), ('New York', 'LOC')]"
+11,"MMA is not my favourite , but seeing John Cena is not something you get to do every day .","MMA is not my favourite , but seeing John Cena is not something you get to do every day .","[('MMA', 'MISC'), ('John Cena', 'PER')]"
+12,OK Computer is supposed to be one of the definitive albums of the '90s .,OK Computer is supposed to be one of the definitive albums of the '90s .,"[('OK Computer', 'ORG')]"
+13,Michael Phelps has won over 20 medals at the Olympic Games !,Michael Phelps has won over 20 medals at the Olympic Games !,"[('Michael Phelps', 'PER'), ('Olympic Games', 'MISC')]"
+14,Ursula von der Leyen is the current president of the European Union Commission .,Ursula von der Leyen is the current president of the European Union Commission .,"[('Ursula von der Leyen', 'PER'), ('European Union Commission', 'ORG')]"
